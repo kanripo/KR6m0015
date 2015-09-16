@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:18.900041
+#+DATE: 2015-08-30 20:53:23.022695
 #+TITLE: 大乘廣百論釋論
 #+PROPERTY: CBETA_ID T30n1571
 #+PROPERTY: ID KR6m0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1571
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6m0015_T_000-0187a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0015_T_007-0222a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
 ¶
-
- 《大乘廣百論釋論》卷第七¶
+《大乘廣百論釋論》卷第七¶
 ¶
 聖天菩薩本　護法菩薩釋¶
 三藏法師玄奘奉　詔譯¶
 
-5破根境品
-:PROPERTIES:
-:head: 破根境品第五
-:END:
-¶
+破根境品第五¶
 
 復次如上所言。後當廣破根境等者。我今當¶
 說。根是了別境界所依。將欲破根先除其境。¶
@@ -525,7 +520,7 @@
 至色方見。極遠近色應見分明。與非近遠見¶
 應無異。既有差別。故非至境。非鼻等根。於¶
 香味觸有此遠近明昧不同。由是比知眼不¶
-至境。於近遠境用差別故。猶如磁石。又眼¶
+至境。於近遠境用差別故。猶如[石*慈]石。又眼¶
 趣色先見不見。二俱不然。故次頌曰。¶
 
 #+BEGIN_VERSE
