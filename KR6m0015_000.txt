@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘廣百論釋論
+#+DATE: 2015-08-30 20:53:19.354633
+#+PROPERTY: JUAN 0
