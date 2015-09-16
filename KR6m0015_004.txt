@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:18.798770
+#+DATE: 2015-08-30 20:53:23.629432
 #+TITLE: 大乘廣百論釋論
 #+PROPERTY: CBETA_ID T30n1571
 #+PROPERTY: ID KR6m0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1571
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0015_T_000-0187a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0015_T_004-0203c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
 ¶
-
- 《大乘廣百論釋論》卷第四¶
+《大乘廣百論釋論》卷第四¶
 ¶
 聖天菩薩本　護法菩薩釋¶
 三藏法師玄奘奉　詔譯¶
 
-3破時品
-:PROPERTIES:
-:head: 破時品第三之一
-:END:
-¶
+破時品第三之一¶
 
 復次有作是言。如說已滅未生無體。其理不¶
 然。諸有為法前後兩際作用雖無而體恒有。¶

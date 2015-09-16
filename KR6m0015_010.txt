@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:19.006766
+#+DATE: 2015-08-30 20:53:23.835469
 #+TITLE: 大乘廣百論釋論
 #+PROPERTY: CBETA_ID T30n1571
 #+PROPERTY: ID KR6m0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1571
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0015_T_000-0187a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0015_T_010-0242c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
 ¶
-
- 《大乘廣百論釋論》卷第十¶
+《大乘廣百論釋論》卷第十¶
 ¶
 聖天菩薩本　護法菩薩釋¶
 三藏法師玄奘奉　詔譯¶
 
-8教誡弟子品
-:PROPERTIES:
-:head: 教誡弟子品第八
-:END:
-¶
+教誡弟子品第八¶
 
 復次正論已立邪道伏膺。於密義中尚餘微¶
 滯。以淨理教。重顯真宗。遣彼餘疑。故說頌¶
@@ -37,8 +32,7 @@
 #+END_VERSE
 」¶
 
-論曰。雖一切法本性皆空。而初學徒未能見¶
-故。追愛妄有怖達深空。或為餘緣未能決¶
+論曰。雖一切法本性皆空。而初學徒未能見故。追愛妄有怖達深空。或為餘緣未能決¶
 了。以正理教重顯前宗。令彼除疑捨諸倒執。¶
 既一切法本性皆空。未達此空。以何為性。諸
 <pb:KR6m0015_T_010-0243a>¶

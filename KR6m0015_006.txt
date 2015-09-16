@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:18.857761
+#+DATE: 2015-08-30 20:53:23.693371
 #+TITLE: 大乘廣百論釋論
 #+PROPERTY: CBETA_ID T30n1571
 #+PROPERTY: ID KR6m0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1571
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0015_T_000-0187a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0015_T_006-0215c> ¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
 ¶
-
- 《大乘廣百論釋論》卷第六¶
+《大乘廣百論釋論》卷第六¶
 ¶
 聖天菩薩本　護法菩薩釋¶
 三藏法師玄奘奉　詔譯¶
 
-4破見品
-:PROPERTIES:
-:head: 破見品第四
-:END:
-¶
+破見品第四¶
 
 復次若如所言諸法性相世俗事有勝義理¶
 空。如來於中智見無礙。言音辯了巧悟他心。¶
@@ -80,7 +75,7 @@
 」¶
 
 論曰。諸外道宗皆言棄捨我所有事。唯我獨¶
-存遠離羈纏。蕭然解脫無為惔怕。名曰涅¶
+存遠離[襾/(革*馬)]纏。蕭然解脫無為惔怕。名曰涅¶
 槃。離相真空絕諸妄境。亦無分別執有等心。¶
 觀此能除一切心境。正歸無上大般涅槃。不¶
 違汝等所求解脫。如何憎背而不生欣。我等¶

@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:18.722572
+#+DATE: 2015-08-30 20:53:23.561549
 #+TITLE: 大乘廣百論釋論
 #+PROPERTY: CBETA_ID T30n1571
 #+PROPERTY: ID KR6m0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1571
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0015_T_000-0187a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0015_T_002-0192a> ¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 《大乘廣百論釋論》卷第二¶
+《大乘廣百論釋論》卷第二¶
 ¶
 聖天菩薩本　護法菩薩釋¶
 三藏法師玄奘奉　詔譯¶
@@ -268,11 +267,7 @@
 善巧證法空者。雖處猛焰而不焚燒。雖現死¶
 生而常解脫。¶
 
-2破我品
-:PROPERTIES:
-:head: 《大乘廣百論釋論》破我品第二之一
-:END:
-¶
+《大乘廣百論釋論》破我品第二之一¶
 
 復次勝論外道作如是言。前說無餘般涅槃¶
 位。無蘊無我依誰而說。有涅槃者。其理不然。

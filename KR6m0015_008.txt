@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:18.939395
+#+DATE: 2015-08-30 20:53:23.764582
 #+TITLE: 大乘廣百論釋論
 #+PROPERTY: CBETA_ID T30n1571
 #+PROPERTY: ID KR6m0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1571
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0015_T_000-0187a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0015_T_008-0229c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
 ¶
-
- 《大乘廣百論釋論》卷第八¶
+《大乘廣百論釋論》卷第八¶
 ¶
 聖天菩薩本　護法菩薩釋¶
 三藏法師玄奘奉　詔譯¶
 
-6破邊執品
-:PROPERTIES:
-:head: 破邊執品第六
-:END:
-¶
+破邊執品第六¶
 
 如是已辨根境皆虛。復為滌除非真句義邊¶
 執垢穢。故說頌曰。

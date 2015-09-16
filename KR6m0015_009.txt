@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:18.971363
+#+DATE: 2015-08-30 20:53:23.802310
 #+TITLE: 大乘廣百論釋論
 #+PROPERTY: CBETA_ID T30n1571
 #+PROPERTY: ID KR6m0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1571
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0015_T_000-0187a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0015_T_009-0236b> ¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
 ¶
-
- 《大乘廣百論釋論》卷第九¶
+《大乘廣百論釋論》卷第九¶
 ¶
 聖天菩薩本　護法菩薩釋¶
 三藏法師玄奘奉　詔譯¶
 
-7破有為相品
-:PROPERTIES:
-:head: 破有為相品第七
-:END:
-¶
+破有為相品第七¶
 
 復次已別分別根境無我。今當總辨有為相¶
 空。謂色心等諸有為法。具生住滅三有為相¶
